@@ -10,6 +10,7 @@ Possible improvements:
   <li>Multiplayer (client vs. client)</li>
   <li>Win/loss record. Displayed on both the server and client GUIs</li>
   <li>Revamp client GUI to have a login page then transition to game page</li>
+  <li>Add a quit/disconnect button to the client GUI</li>
   <li>Package the program to be installed on different computers/OS</li>
 </ol>
 
